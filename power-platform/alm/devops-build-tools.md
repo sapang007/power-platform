@@ -53,7 +53,7 @@ changes." The build tasks can largely be categorized into four types:
 ## Get the Power Apps build tools
 
 The Power Apps build tools can be installed into your Azure DevOps organization
-from [Azure Marketplace](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerApps-BuildTools).
+from [Azure Marketplace](https://marketplace.visualstudio.com/items?itemName=microsoft-IsvExpTools.PowerPlatform-BuildTools).
 After they're installed, all tasks included in the Power Apps build tools will be
 available to add into any new or existing pipeline. You can find them by
 searching for **powerapps**.
