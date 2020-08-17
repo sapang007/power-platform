@@ -15,7 +15,7 @@
       - name: Determine your organization ID and name
         href: determine-org-id-name.md
       - name: Manage email notifications to admins
-        href: manage-email-notifications.md
+        href: https://docs.microsoft.com/en-us/powershell/module/microsoft.powerapps.administration.powershell/get-adminpowerappcdsadditionalnotificationemails?view=pa-ps-latest
       - name: Policies and communications
         href: policies-communications.md
       - name: Notifications explained
